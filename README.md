@@ -1,1 +1,1 @@
-# everup_introduction_to_cybersecurity_projects
+# Cybersecurity Essentials Projects
